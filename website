@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Sederhana</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #444;
+            color: #fff;
+            padding: 0.5rem;
+            text-align: center;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 1rem;
+        }
+
+        main {
+            padding: 2rem;
+            text-align: center;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Website Sederhana</h1>
+    </header>
+    <nav>
+        <a href="#">Beranda</a>
+        <a href="#">Tentang Kami</a>
+        <a href="#">Kontak</a>
+    </nav>
+  <a href="https://google.com"> menuju ke website google.com
+    <main>
+        <h2>Selamat datang di Website</h2>
+        <p>Ini adalah website pribadi saya yang di buat oleh html,javascript dan css.</p>
+        <img src="logo.png" alt="Gambar Anda" height="100%" width="100%">
+    </main>
+    <footer>
+        <p>Hak Cipta &copy; 2023 - Website Sederhana</p>
+    </footer>
+</body>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+<body>
+    <header>
+        <h1></h1>
+    </header>
+    <main>
+        <section>
+            <h2>Apa itu HTML?</h2>
+            <p>HTML (HyperText Markup Language) adalah bahasa markup yang digunakan untuk membuat struktur dan konten halaman web. HTML menggunakan elemen-elemen yang diberi tag untuk menandai bagian-bagian berbeda dari konten, seperti judul, paragraf, gambar, tautan, dan lainnya.</p>
+        </section>
+        <section>
+            <h2>Bagaimana HTML Bekerja?</h2>
+            <p>Browser web menggunakan HTML untuk menampilkan konten halaman web. Ketika Anda mengakses sebuah situs web, browser mengambil kode HTML dari server dan mengurai kode tersebut untuk menampilkan halaman yang terlihat.</p>
+        </section>
+        <section>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Sederhana</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #444;
+            color: #fff;
+            padding: 0.5rem;
+            text-align: center;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 1rem;
+        }
+
+        main {
+            padding: 2rem;
+            text-align: center;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Website Sederhana</h1>
+    </header>
+    <nav>
+        <a href="#">Beranda</a>
+        <a href="#">Tentang Kami</a>
+        <a href="#">Kontak</a>
+    </nav>
+  <a href="https://google.com"> menuju ke website google.com
+    <main>
+        <h2>Selamat datang di Website</h2>
+        <p>Ini adalah website pribadi saya yang di buat oleh html,javascript dan css.</p>
+        <img src="logo.png" alt="Gambar Anda" height="100%" width="100%">
+    </main>
+    <footer>
+        <p>Hak Cipta &copy; 2023 - Website Sederhana</p>
+    </footer>
+</body>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+<body>
+    <header>
+        <h1></h1>
+    </header>
+    <main>
+        <section>
+            <h2>Apa itu HTML?</h2>
+            <p>HTML (HyperText Markup Language) adalah bahasa markup yang digunakan untuk membuat struktur dan konten halaman web. HTML menggunakan elemen-elemen yang diberi tag untuk menandai bagian-bagian berbeda dari konten, seperti judul, paragraf, gambar, tautan, dan lainnya.</p>
+        </section>
+        <section>
+            <h2>Bagaimana HTML Bekerja?</h2>
+            <p>Browser web menggunakan HTML untuk menampilkan konten halaman web. Ketika Anda mengakses sebuah situs web, browser mengambil kode HTML dari server dan mengurai kode tersebut untuk menampilkan halaman yang terlihat.</p>
+        </section>
+        <section>
+</html>
